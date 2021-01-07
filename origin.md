@@ -10,4 +10,3 @@ Some differences between these approaches are
 
 One of the activities of an SRE is the building of tools. Since SREs are first responders, they can see where additional tools would be helpful. Because of the stress involved in being an SRE, Google restricts on-call activities to 50% of an SRE’s time. The remaining 50% can be spent either developing tools for use by SREs or doing development within a development team.
 
-As we said in the beginning of this section, the goals of the Amazon and Google approaches are the same–rapid repair when an incident occurs. The choice of which approach your organization might choose depends on the tradeoffs that we have discussed.
